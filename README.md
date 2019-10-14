@@ -1,5 +1,5 @@
 # Babel
-<img width="10%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/logo-babel.jpg">https://www.ausl.bologna.it/pro/pb
+<img width="10%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/logo-babel.png?raw=true">https://www.ausl.bologna.it/pro/pb
 
 La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 
