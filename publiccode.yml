@@ -6,7 +6,11 @@ publiccodeYmlVersion: '0.2'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
+<<<<<<< HEAD
 releaseDate:'2019-04-01'
+=======
+releaseDate: '2019-04-01'
+>>>>>>> Fix publiccode.yml, changed file names
 developmentStatus: stable
 platforms:
   - web
@@ -40,10 +44,17 @@ maintenance:
   contractors:
     - until: '2022-06-30'
       name: NEXT srl
+<<<<<<< HEAD
       website: 'https://www.nextsw.it'
     - name: NSI srl
       until: '2022-06-30'
       website: 'https://www.nsi.it'
+=======
+      website: 'https://nextsw.it'
+    - name: NSI srl
+      until: '2022-06-30'
+      website: 'http://www.nsi.it'
+>>>>>>> Fix publiccode.yml, changed file names
 legal:
   license: EUPL-1.2
   repoOwner: Azienda USL di Bologna
@@ -115,11 +126,19 @@ description:
       - 'Scrivania: Log di utilizzo'
       - 'PEC Internauta: possibilità di protocollare una mail in ingresso'
       - 'PEC Internauta: possibilità di immettere una mail in un fascicolo'
+<<<<<<< HEAD
       - 'PEC Internauta: Reindirizzamento di PEC ad altra casella con mantenimento metadati'
       - 'PEC Internauta: Associazione diretta ricevute alle PEC che le hanno generate'
       - 'PEC Internauta: Gestione particolare degli errori di invio'
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
       - 'BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti'
+=======
+      - 'PEC Internauta: Reindirizzamento di mail ad altra casella con mantenimento metadati'
+      - 'PEC Internauta: Associazione diretta ricevute alle mail inviate che le hanno generate'
+      - 'PEC Internauta: Gestione particolare degli errori di invio'
+      - 'BABORG: configurazione articolazioni organizzative unificate tra Enti diversi'
+      - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
+>>>>>>> Fix publiccode.yml, changed file names
     screenshots:
       - 'Scrivania_Internauta.jpg'
       - 'Pec_Internauta.jpg'
