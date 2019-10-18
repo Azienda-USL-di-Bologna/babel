@@ -2,11 +2,11 @@
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/italia/publiccode.yml
 
-publiccodeYmlVersion: '0.2'
+publiccodeYmlVersion: '0.3'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
-releaseDate: 01/04/2019
+releaseDate:'2019-04-01'
 developmentStatus: stable
 platforms:
   - web
@@ -40,10 +40,10 @@ maintenance:
   contractors:
     - until: '2022-06-30'
       name: NEXT srl
-      website: 'http://www.nextsw.it'
+      website: 'https://www.nextsw.it'
     - name: NSI srl
       until: '2022-06-30'
-      website: http;//www.nsi.it
+      website: 'https://www.nsi.it'
 legal:
   license: EUPL-1.2
   repoOwner: Azienda USL di Bologna
@@ -115,24 +115,13 @@ description:
       - 'Scrivania: Log di utilizzo'
       - 'PEC Internauta: possibilità di protocollare una mail in ingresso'
       - 'PEC Internauta: possibilità di immettere una mail in un fascicolo'
-      - >-
-        PEC Internauta: Reindirizzamento di una mail ad altra casella (nello
-        stesso Ente) con il mantenimento dei metadati originali
-      - >-
-        PEC Internauta: Associazione diretta delle ricevute alle mail inviate
-        che le hanno generate
+      - 'PEC Internauta: Reindirizzamento di PEC ad altra casella con mantenimento metadati'
+      - 'PEC Internauta: Associazione diretta ricevute alle PEC che le hanno generate'
       - 'PEC Internauta: Gestione particolare degli errori di invio'
-      - >-
-        BABORG: configurazione delle articolazioni organizzative che compongono
-        servizi unificate tra Enti diversi
-      - >-
-        BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi
-        degli Enti
+      - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
+      - 'BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti'
     screenshots:
-      - >-
-        https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Scrivania%20Internauta.jpg
-      - >-
-        https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Pec%20Internauta.jpg
-      - >-
-        https://github.com/Azienda-USL-di-Bologna/babel/blob/master/BabOrg%20Anagrafe%20Pec.jpg
-logo: 'https://github.com/Azienda-USL-di-Bologna/babel/blob/master/logo-babel.png'
+      - 'Scrivania_Internauta.jpg'
+      - 'Pec_Internauta.jpg'
+      - 'BabOrg_Anagrafe_Pec.jpg'
+logo: 'logo-babel.png'
