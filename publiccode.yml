@@ -119,7 +119,7 @@ description:
       - 'PEC Internauta: Associazione diretta ricevute alle PEC che le hanno generate'
       - 'PEC Internauta: Gestione particolare degli errori di invio'
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
-      - 'BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti'
+      - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
     screenshots:
       - 'Scrivania_Internauta.jpg'
       - 'Pec_Internauta.jpg'
