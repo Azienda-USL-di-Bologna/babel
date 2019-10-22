@@ -6,7 +6,7 @@ publiccodeYmlVersion: '0.2'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
-releaseDate:'2019-04-01'
+releaseDate: '2019-04-01'
 developmentStatus: stable
 platforms:
   - web
