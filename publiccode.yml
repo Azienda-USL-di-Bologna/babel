@@ -36,7 +36,7 @@ maintenance:
   contacts:
     - name: Marianna Tascone
       email: marianna.tascone@ausl.bologna.it
-      phone: '3346998807'
+      phone: ''
   contractors:
     - until: '2022-06-30'
       name: NEXT srl
