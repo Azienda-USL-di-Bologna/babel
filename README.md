@@ -15,15 +15,15 @@ Le applicazioni Angular sono tre ed usano un framework front-end:
 
 Di seguito le applicazioni Angular:
 
-### Scrivania internauta:
+## Scrivania internauta:
 - https://github.com/Azienda-USL-di-Bologna/babel-scrivania
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Scrivania_Internauta.jpg?raw=true">
 
-### BabOrg:
+## BabOrg:
 - https://github.com/Azienda-USL-di-Bologna/babel-organigramma
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/BabOrg_Organigramma.jpg?raw=true">
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/BabOrg_Anagrafe_Pec.jpg?raw=true">
 
-### Pec internauta:
+## Pec internauta:
 - https://github.com/Azienda-USL-di-Bologna/babel-pec
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Pec_Internauta.jpg?raw=true">
