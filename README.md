@@ -10,7 +10,7 @@ La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 Le applicazioni Angular sono tre ed usano un framework front-end:
 - https://github.com/Azienda-USL-di-Bologna/babel-framework-frontend
 
-### Firma-JR
+## Firma-JR
 - https://github.com/Azienda-USL-di-Bologna/Firma-JR
 
 Di seguito le applicazioni Angular:
