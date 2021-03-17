@@ -35,8 +35,8 @@ dependsOn:
 maintenance:
   type: contract
   contacts:
-    - name: Marianna Tascone
-      email: marianna.tascone@ausl.bologna.it
+    - name: Roberto Benedetti
+      email: roberto.benedetti@ausl.bologna.it
       phone: ''
   contractors:
     - until: '2022-06-30'
