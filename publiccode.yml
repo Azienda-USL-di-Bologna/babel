@@ -44,7 +44,7 @@ maintenance:
       website: 'https://nextsw.it/ausl-di-bologna-babel/'
     - name: NSI srl
       until: '2022-06-30'
-      website: 'https://www.nsi.itt'
+      website: 'https://www.nsi.it'
 legal:
   license: EUPL-1.2
   repoOwner: Azienda USL di Bologna
