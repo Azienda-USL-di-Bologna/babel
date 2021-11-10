@@ -41,10 +41,10 @@ maintenance:
   contractors:
     - until: '2022-06-30'
       name: NEXT srl
-      website: 'https://www.nextsw.it'
+      website: 'https://nextsw.it/ausl-di-bologna-babel/'
     - name: NSI srl
       until: '2022-06-30'
-      website: 'https://www.nsi.it'
+      website: 'https://www.nsi.itt'
 legal:
   license: EUPL-1.2
   repoOwner: Azienda USL di Bologna
