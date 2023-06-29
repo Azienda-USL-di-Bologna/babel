@@ -21,6 +21,7 @@ usedBy:
   - Azienda Ospedaliera di Ferrara
   - Istituto Ortopedico Rizzoli
   - Agenzia Regionale per Le Politiche Attive del Lavoro * Arpal Umbria
+  - Azienda Zero (Regione Veneto)
 categories:
   - document-management
   - collaboration
@@ -39,12 +40,12 @@ maintenance:
       email: roberto.benedetti@ausl.bologna.it
       phone: ''
   contractors:
-    - until: '2022-06-30'
+    - until: '2025-12-31'
       name: NEXT srl
       website: 'https://nextsw.it/ausl-di-bologna-babel/'
-    - name: NSI srl
-      until: '2022-06-30'
-      website: 'https://www.nsi.it'
+    - name: Dilaxia SpA
+      until: '2025-12-31'
+      website: 'https://www.dilaxia.ip'
 legal:
   license: EUPL-1.2
   repoOwner: Azienda USL di Bologna
