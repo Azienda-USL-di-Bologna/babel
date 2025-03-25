@@ -45,7 +45,7 @@ maintenance:
       website: 'https://nextsw.it/ausl-di-bologna-babel/'
     - name: Dilaxia SpA
       until: '2025-12-31'
-      website: 'https://www.dilaxia.ip'
+      website: 'https://www.dilaxia.com'
 legal:
   license: EUPL-1.2
   repoOwner: Azienda USL di Bologna
