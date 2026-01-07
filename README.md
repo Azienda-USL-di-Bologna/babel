@@ -14,7 +14,7 @@ E sono cinque:
 Scrivania Internauta, Rubrica Internauta, Pec Internauta,Babel Organigramma (BabOrg), Elenco documenti e Fascicoli Internauta (Gedi Internauta).
 
 ## Firma-JNJ
-- https://github.com/Azienda-USL-di-Bologna/Firma-JNJ
+- https://github.com/Azienda-USL-di-Bologna/firma-jnj
 
 Di seguito le applicazioni Angular:
 
