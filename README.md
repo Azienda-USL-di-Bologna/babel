@@ -29,7 +29,9 @@ Di seguito le applicazioni Angular:
 ## Pec internauta:
 - https://github.com/Azienda-USL-di-Bologna/babel-pec
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Pec_Internauta.jpg?raw=true">
+
 ## Rubrica internauta: 
 - https://github.com/Azienda-USL-di-Bologna/babel-rubrica
+
 ## Elenco documenti e Fascicoli Internauta
 - https://github.com/Azienda-USL-di-Bologna/babel-scripta
