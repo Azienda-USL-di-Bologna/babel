@@ -23,8 +23,8 @@ Di seguito le applicazioni Angular:
 
 ## BabOrg:
 - https://github.com/Azienda-USL-di-Bologna/babel-organigramma
-<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/BabOrg_Organigramma.jpg?raw=true">
-<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/BabOrg_Anagrafe_Pec.jpg?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/baborg_organigramma.png?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/baborg_anagrafe_pec.png?raw=true">
 
 ## Pec internauta:
 - https://github.com/Azienda-USL-di-Bologna/babel-pec
