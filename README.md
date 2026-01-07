@@ -35,5 +35,5 @@ Di seguito le applicazioni Angular:
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/rubrica.png?raw=true">
 
 ## Elenco documenti e Fascicoli Internauta
-- https://github.com/Azienda-USL-di-Bologna/babel-scripta
+- https://github.com/Azienda-USL-di-Bologna/scripta-ui
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/elenco_documenti_fascicoli.png?raw=true">
