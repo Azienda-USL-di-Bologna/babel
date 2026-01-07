@@ -18,7 +18,7 @@ Scrivania Internauta, Rubrica Internauta, Pec Internauta,Babel Organigramma (Bab
 Di seguito le applicazioni Angular:
 
 ## Scrivania internauta:
-- https://github.com/Azienda-USL-di-Bologna/babel-scrivania
+- https://github.com/Azienda-USL-di-Bologna/scrivania-ui
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/scrivania.png?raw=true">
 
 ## BabOrg:
