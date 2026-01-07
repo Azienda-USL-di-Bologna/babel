@@ -9,6 +9,7 @@ La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 ## Frontend
 Le applicazioni Angular usano un framework front-end:
 - https://github.com/Azienda-USL-di-Bologna/babel-framework-frontend
+  
 E sono cinque:
 Scrivania Internauta, Rubrica Internauta, Pec Internauta,Babel Organigramma (BabOrg), Elenco documenti e Fascicoli Internauta (Gedi Internauta).
 
