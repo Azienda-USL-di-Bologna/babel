@@ -22,16 +22,16 @@ Di seguito le applicazioni Angular:
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/scrivania.png?raw=true">
 
 ## BabOrg:
-- https://github.com/Azienda-USL-di-Bologna/babel-organigramma
+- https://github.com/Azienda-USL-di-Bologna/baborg-ui
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/baborg_organigramma.png?raw=true">
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/baborg_anagrafe_pec.png?raw=true">
 
 ## Pec internauta:
-- https://github.com/Azienda-USL-di-Bologna/babel-pec
+- https://github.com/Azienda-USL-di-Bologna/shpeck-ui
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Pec_Internauta.jpg?raw=true">
 
 ## Rubrica internauta: 
-- https://github.com/Azienda-USL-di-Bologna/babel-rubrica
+- https://github.com/Azienda-USL-di-Bologna/rubrint
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/rubrica.png?raw=true">
 
 ## Elenco documenti e Fascicoli Internauta
