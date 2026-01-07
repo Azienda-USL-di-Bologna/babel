@@ -36,3 +36,4 @@ Di seguito le applicazioni Angular:
 
 ## Elenco documenti e Fascicoli Internauta
 - https://github.com/Azienda-USL-di-Bologna/babel-scripta
+<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/elenco_documenti_fascicoli.png?raw=true">
