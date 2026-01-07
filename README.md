@@ -19,7 +19,7 @@ Di seguito le applicazioni Angular:
 
 ## Scrivania internauta:
 - https://github.com/Azienda-USL-di-Bologna/babel-scrivania
-<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Scrivania_Internauta.jpg?raw=true">
+<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/scrivania.png?raw=true">
 
 ## BabOrg:
 - https://github.com/Azienda-USL-di-Bologna/babel-organigramma
@@ -32,6 +32,7 @@ Di seguito le applicazioni Angular:
 
 ## Rubrica internauta: 
 - https://github.com/Azienda-USL-di-Bologna/babel-rubrica
+<img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/rubrica.png?raw=true">
 
 ## Elenco documenti e Fascicoli Internauta
 - https://github.com/Azienda-USL-di-Bologna/babel-scripta
