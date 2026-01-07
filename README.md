@@ -22,7 +22,7 @@ Di seguito le applicazioni Angular:
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/scrivania.png?raw=true">
 
 ## BabOrg:
-- https://github.com/Azienda-USL-di-Bologna/baborg-ui
+- https://github.com/Azienda-USL-di-Bologna/baborg_ui
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/baborg_organigramma.png?raw=true">
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/baborg_anagrafe_pec.png?raw=true">
 
