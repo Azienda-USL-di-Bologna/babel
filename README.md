@@ -7,11 +7,13 @@ La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 - https://github.com/Azienda-USL-di-Bologna/babel-framework-backend
 
 ## Frontend
-Le applicazioni Angular sono tre ed usano un framework front-end:
+Le applicazioni Angular usano un framework front-end:
 - https://github.com/Azienda-USL-di-Bologna/babel-framework-frontend
+E sono cinque:
+Scrivania Internauta, Rubrica Internauta, Pec Internauta,Babel Organigramma (BabOrg), Elenco documenti e Fascicoli Internauta (Gedi Internauta).
 
-## Firma-JR
-- https://github.com/Azienda-USL-di-Bologna/Firma-JR
+## Firma-JNJ
+- https://github.com/Azienda-USL-di-Bologna/Firma-JNJ
 
 Di seguito le applicazioni Angular:
 
@@ -27,3 +29,7 @@ Di seguito le applicazioni Angular:
 ## Pec internauta:
 - https://github.com/Azienda-USL-di-Bologna/babel-pec
 <img width="100%" alt="edit-this-file" src="https://github.com/Azienda-USL-di-Bologna/babel/blob/master/Pec_Internauta.jpg?raw=true">
+## Rubrica internauta: 
+- https://github.com/Azienda-USL-di-Bologna/babel-rubrica
+## Elenco documenti e Fascicoli Internauta
+- https://github.com/Azienda-USL-di-Bologna/babel-scripta
