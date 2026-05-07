@@ -1,8 +1,8 @@
-# This repository adheres to the publiccode.yml standard by including this 
+# This repository adheres to the publiccode.yml standard by including this
 # metadata file that makes public software easily discoverable.
-# More info at https://github.com/italia/publiccode.yml
+# More info at https://github.com/publiccodeyml/publiccode.yml
 
-publiccodeYmlVersion: '0.2'
+publiccodeYmlVersion: '0'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
@@ -39,7 +39,6 @@ maintenance:
   contacts:
     - name: Roberto Benedetti
       email: roberto.benedetti@ausl.bologna.it
-      phone: ''
   contractors:
     - until: '2025-12-31'
       name: NEXT srl
@@ -49,31 +48,22 @@ maintenance:
       website: 'https://www.dilaxia.com'
 legal:
   license: EUPL-1.2
-  repoOwner: Azienda USL di Bologna
   mainCopyrightOwner: Azienda USL di Bologna
 intendedAudience:
   countries:
-    - it
+    - IT
 localisation:
   localisationReady: true
   availableLanguages:
     - it
-it:
-  riuso:
-    codiceIPA: asl_bo
-  conforme:
-    gdpr: true
-    misureMinimeSicurezza: true
-  piattaforme:
-    spid: true
+
 description:
   it:
-    genericName: Piattaforma gestione documentale
     longDescription: >
       BABEL non è descrivibile come un unico prodotto. BABEL è un insieme di
       soluzioni integrate e nel contempo aperte alla collaborazione applicativa
       con sistemi di terze parti.
-            
+
       BABEL garantisce uno strato di servizi e di gestione dei flussi
       documentali condiviso (Scrivania virtuale dell’utente, Gestione dei
       fascicoli documentali, firma digitale, Convertitore di documenti, Instant
@@ -86,7 +76,7 @@ description:
       Tutte le applicazioni sono costruite con interfacce pensate e collaudate
       per poter essere semplici e piacevoli da utilizzare.
 
-           
+
       La Scrivania Virtuale (babel-scrivania) è la prima funzione di BABEL,
       tramite questa l'utente avrà immediatamente disponibili notifiche,
       documentazione ed in generale le attività a lui assegnate dalle
@@ -123,8 +113,4 @@ description:
       - 'PEC Internauta: Gestione particolare degli errori di invio'
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
       - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
-    screenshots:
-      - 'Scrivania_Internauta.jpg'
-      - 'Pec_Internauta.jpg'
-      - 'BabOrg_Anagrafe_Pec.jpg'
 logo: 'logo-babel.png'
