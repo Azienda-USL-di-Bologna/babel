@@ -2,7 +2,7 @@
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/publiccodeyml/publiccode.yml
 
-publiccodeYmlVersion: '1'
+publiccodeYmlVersion: '0.5'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
