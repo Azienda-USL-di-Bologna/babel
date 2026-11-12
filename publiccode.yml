@@ -2,7 +2,7 @@
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/italia/publiccode.yml
 
-publiccodeYmlVersion: '0.2'
+publiccodeYmlVersion: '1.0'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
@@ -124,7 +124,9 @@ description:
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
       - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
     screenshots:
-      - 'Scrivania_Internauta.jpg'
-      - 'Pec_Internauta.jpg'
-      - 'BabOrg_Anagrafe_Pec.jpg'
+      - 'scrivania.png'
+      - 'baborg_anagrafe_pec.png'
+      - 'baborg_organigramma.png'
+      - 'rubrica.png'
+      - 'elenco_documenti_fascicoli.png'
 logo: 'logo-babel.png'
