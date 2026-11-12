@@ -2,11 +2,11 @@
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/publiccodeyml/publiccode.yml
 
-publiccodeYmlVersion: '0'
+publiccodeYmlVersion: '1'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
-releaseDate: '2019-04-01'
+releaseDate: '2026-11-05'
 developmentStatus: stable
 platforms:
   - web
@@ -40,11 +40,11 @@ maintenance:
     - name: Roberto Benedetti
       email: roberto.benedetti@ausl.bologna.it
   contractors:
-    - until: '2025-12-31'
+    - until: '2028-12-31'
       name: NEXT srl
-      website: 'https://nextsw.it/ausl-di-bologna-babel/'
+      website: 'https://babel.nextsw.it'
     - name: Dilaxia SpA
-      until: '2025-12-31'
+      until: '2028-12-31'
       website: 'https://www.dilaxia.com'
 legal:
   license: EUPL-1.2
@@ -113,4 +113,10 @@ description:
       - 'PEC Internauta: Gestione particolare degli errori di invio'
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
       - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
+    screenshots:
+      - 'scrivania.png'
+      - 'baborg_anagrafe_pec.png'
+      - 'baborg_organigramma.png'
+      - 'rubrica.png'
+      - 'elenco_documenti_fascicoli.png'
 logo: 'logo-babel.png'
