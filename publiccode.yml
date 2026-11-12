@@ -1,4 +1,4 @@
-# This repository adheres to the publiccode.yml standard by including this 
+.# This repository adheres to the publiccode.yml standard by including this 
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/italia/publiccode.yml
 
@@ -41,11 +41,11 @@ maintenance:
       email: roberto.benedetti@ausl.bologna.it
       phone: ''
   contractors:
-    - until: '2025-12-31'
+    - until: '2028-12-31'
       name: NEXT srl
-      website: 'https://nextsw.it/ausl-di-bologna-babel/'
+      website: 'https://babel.nextsw.it'
     - name: Dilaxia SpA
-      until: '2025-12-31'
+      until: '2028-12-31'
       website: 'https://www.dilaxia.com'
 legal:
   license: EUPL-1.2
