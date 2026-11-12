@@ -11,6 +11,9 @@ developmentStatus: stable
 platforms:
   - web
 softwareType: standalone/web
+organisation:
+  name: Azienda USL di Bologna
+  uri: 'urn:x-italian-pa:asl_bo'
 usedBy:
   - Azienda USL di Bologna
   - Azienda USL di Imola
@@ -25,8 +28,12 @@ usedBy:
   - Azienda Ospedaliero Universitaria Policlinico "G.Rodolico - San Marco" di Catania
 categories:
   - document-management
-  - collaboration
+  - workflow-management
   - business-process-management
+  - e-signature
+  - email-management
+  - instant-messaging
+  - collaboration
   - web-collaboration
 dependsOn:
   open:
@@ -52,6 +59,10 @@ legal:
 intendedAudience:
   countries:
     - IT
+  scope:
+    - healthcare
+    - government
+    - local-authorities
 localisation:
   localisationReady: true
   availableLanguages:
@@ -59,43 +70,61 @@ localisation:
 
 description:
   it:
-    longDescription: >
-      BABEL non è descrivibile come un unico prodotto. BABEL è un insieme di
-      soluzioni integrate e nel contempo aperte alla collaborazione applicativa
-      con sistemi di terze parti.
-
-      BABEL garantisce uno strato di servizi e di gestione dei flussi
-      documentali condiviso (Scrivania virtuale dell’utente, Gestione dei
-      fascicoli documentali, firma digitale, Convertitore di documenti, Instant
-      Messagging, PEC Gateway, Rubriche federate, BPMS, Single Sign On, …).
-
-      Su questo strato comune di servizi vengono messe a disposizione, in
-      modalità “plug-ins”, soluzioni verticali per gestire processi specifici
-      quali: protocollo informatico, Determina,Delibere, ….
-
-      Tutte le applicazioni sono costruite con interfacce pensate e collaudate
-      per poter essere semplici e piacevoli da utilizzare.
-
-
-      La Scrivania Virtuale (babel-scrivania) è la prima funzione di BABEL,
-      tramite questa l'utente avrà immediatamente disponibili notifiche,
-      documentazione ed in generale le attività a lui assegnate dalle
-      applicazioni dei vari Enti integrate con essa (utile per la gestione di
-      servizi unificati); scelta poi l'attività dell'Ente specifico da eseguire,
-      Babel avvierà l'applicativo in grado di espletarla.
-
-      La PEC Internauta (babel-pec) è il modulo di Babel per la gestione delle
-      caselle di posta certificata che da accesso agli account di posta
-      certificata abilitati per l'utente, anche riferiti ad aziende diverse
-      (utile per la gestione di servizi unificati)
-
-      BABORG è Il sistema in uso agli amministratori aziendali, per la gestione
-      dell'Organigramma interaziendale, dei Servizi unificati e della
-      configurazione delle Caselle pec.
+    localisedName: BABEL – Gestione documentale e protocollo informatico a riuso
     shortDescription: >-
-      BABEL è un sistema software per la gestione dell'archivio digitale e la
-      gestione documentale corrente.
+      Gestione documentale e protocollo informatico a riuso per la PA:
+      fascicoli, PEC, determinazioni, deliberazioni e firma digitale.
+    longDescription: >
+      BABEL è la piattaforma open source a riuso per la gestione documentale e
+      il protocollo informatico della pubblica amministrazione, progettata e
+      realizzata dall'Azienda USL di Bologna. È in uso in aziende sanitarie,
+      aziende ospedaliere ed enti pubblici di diverse regioni ed è adottabile
+      senza oneri di licenza. Protocollo, classificazione, fascicolazione,
+      firma e versamento in conservazione seguono le Linee guida AgID sulla
+      formazione, gestione e conservazione dei documenti informatici.
+
+      BABEL è un insieme di soluzioni integrate e nel contempo aperte alla
+      collaborazione applicativa con sistemi di terze parti. Garantisce uno
+      strato condiviso di servizi e di gestione dei flussi documentali:
+      scrivania virtuale dell'utente, fascicoli e archivio digitale, firma
+      digitale, convertitore di documenti, messaggistica istantanea, gateway
+      PEC, rubriche federate, motore di workflow (BPMS) e accesso unico
+      (Single Sign On).
+
+      Su questo strato comune di servizi si innestano, come moduli verticali,
+      le soluzioni per i singoli procedimenti amministrativi: protocollo
+      informatico, determinazioni e deliberazioni. Tutte le applicazioni hanno
+      interfacce pensate e collaudate per essere semplici e piacevoli da
+      utilizzare.
+
+      La Scrivania virtuale (babel-scrivania) è il punto di accesso di BABEL:
+      l'utente vi trova notifiche, documenti e attività assegnate dalle
+      applicazioni dei vari enti integrate con essa, utile anche per la
+      gestione di servizi unificati tra più enti. Scelta l'attività da
+      svolgere, BABEL avvia l'applicazione in grado di eseguirla.
+
+      PEC Internauta (babel-pec) è il modulo per la gestione delle caselle di
+      posta elettronica certificata: dà accesso agli account PEC abilitati per
+      l'utente, anche di enti diversi, e permette di protocollare e fascicolare
+      i messaggi ricevuti.
+
+      BABORG è il sistema in uso agli amministratori degli enti per la
+      gestione dell'organigramma interaziendale, dei servizi unificati e della
+      configurazione delle caselle PEC.
+
+      La classificazione e la fascicolazione dei documenti sono assistite
+      dall'intelligenza artificiale: il sistema propone, l'operatore decide.
+
+      Lo sviluppo e la manutenzione evolutiva sono affidati a Dilaxia SpA e a
+      NEXT srl.
     features:
+      - 'Protocollo informatico: registrazione, classificazione e fascicolazione'
+      - 'Determinazioni e deliberazioni: iter di redazione, firma e smistamento'
+      - 'Fascicoli e archivio digitale secondo le Linee guida AgID'
+      - 'Firma digitale integrata nelle applicazioni'
+      - 'Versamento in conservazione dei documenti informatici'
+      - 'Accesso unico (single sign-on), anche con SPID e CNS'
+      - 'Classificazione e fascicolazione tramite Intelligenza Artificiale'
       - 'Scrivania: Visualizzazione notifiche di processo'
       - 'Scrivania: Visualizzazione attività di processo'
       - 'Scrivania: Anteprima dei documenti coinvolti'
@@ -104,7 +133,6 @@ description:
       - 'Scrivania: Gestione profilo utente'
       - 'Scrivania: Gestione multi-ente'
       - 'Scrivania: Funzioni di ricerca'
-      - 'Scrivania: Single-sign-on'
       - 'Scrivania: Log di utilizzo'
       - 'PEC Internauta: possibilità di protocollare una mail in ingresso'
       - 'PEC Internauta: possibilità di immettere una mail in un fascicolo'
@@ -113,7 +141,6 @@ description:
       - 'PEC Internauta: Gestione particolare degli errori di invio'
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
       - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
-      - "Classificazione e fascicolazione tramite Intelligenza Artificiale"
     screenshots:
       - 'scrivania.png'
       - 'baborg_anagrafe_pec.png'
