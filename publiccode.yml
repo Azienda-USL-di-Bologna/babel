@@ -28,10 +28,6 @@ categories:
   - collaboration
   - business-process-management
   - web-collaboration
-  - protocollo informatico
-  - gestione atti
-  - Determine
-  - Delibere
 dependsOn:
   open:
     - name: PostgreSQL
