@@ -28,6 +28,10 @@ categories:
   - collaboration
   - business-process-management
   - web-collaboration
+  - protocollo informatico
+  - gestione atti
+  - Determine
+  - Delibere
 dependsOn:
   open:
     - name: PostgreSQL
@@ -113,6 +117,7 @@ description:
       - 'PEC Internauta: Gestione particolare degli errori di invio'
       - 'BABORG: configurazione delle articolazioni organizzative servizi unificati tra Enti'
       - "BABORG: Gestione dell'anagrafe PEC e loro mappatura sugli organigrammi degli Enti"
+      - "Classificazione e fascicolazione tramite Intelligenza Artificiale"
     screenshots:
       - 'scrivania.png'
       - 'baborg_anagrafe_pec.png'
