@@ -48,9 +48,9 @@ maintenance:
       email: roberto.benedetti@ausl.bologna.it
   contractors:
     - until: '2028-12-31'
-      name: NEXT srl
+      name: NEXT srl - https://babel.nextsw.it
       website: 'https://babel.nextsw.it'
-    - name: Dilaxia SpA
+    - name: Dilaxia SpA - https://www.dilaxia.com
       until: '2028-12-31'
       website: 'https://www.dilaxia.com'
 legal:
