@@ -6,6 +6,7 @@ publiccodeYmlVersion: '0.5'
 name: BABEL
 applicationSuite: BABEL
 url: 'https://github.com/Azienda-USL-di-Bologna/babel'
+landingURL: 'https://babel.nextsw.it'
 releaseDate: '2026-11-12'
 developmentStatus: stable
 platforms:
@@ -115,7 +116,8 @@ description:
       La classificazione e la fascicolazione dei documenti sono assistite
       dall'intelligenza artificiale: il sistema propone, l'operatore decide.
 
-      Lo sviluppo e la manutenzione evolutiva sono affidati a NEXT srl e Dilaxia SpA.
+      Lo sviluppo e la manutenzione evolutiva sono affidati a
+      [NEXT srl](https://babel.nextsw.it) e [Dilaxia SpA](https://www.dilaxia.com).
     features:
       - 'Protocollo informatico: registrazione, classificazione e fascicolazione'
       - 'Determinazioni e deliberazioni: iter di redazione, firma e smistamento'
