@@ -3,6 +3,8 @@
 
 La piattaforma di gestione documentale sviluppata dall’AUSL di Bologna
 
+Sito del progetto, con funzioni, modalità di riuso e contatti: https://babel.nextsw.it
+
 ## Backend
 - https://github.com/Azienda-USL-di-Bologna/babel-framework-backend
 
